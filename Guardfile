@@ -37,6 +37,8 @@ guard :minitest, include: ['lib'] do
   # watch(%r{^lib/(.*/)?([^/]+)\.rb$})     { |m| "test/#{m[1]}test_#{m[2]}.rb" }
   watch(%r{^lib/(.*/)?([^/]+)\.rb$})     { |m| "test/#{m[1]}#{m[2]}_test.rb" }
   watch(%r{^test/test_helper\.rb$})      { 'test' }
+  watch(%r{^lib/.*\.rb$})                { 'test/golden_master_test.rb' }
+  watch(%r{^test/.*_test\.rb$})          { 'test/golden_master_test.rb' }
 
   # with Minitest::Spec
   # watch(%r{^spec/(.*)_spec\.rb$})

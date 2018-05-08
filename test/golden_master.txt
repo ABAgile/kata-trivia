@@ -1,0 +1,3064 @@
+===== iteration 1 started =====
+Jessica was added
+They are player number 1
+Kelly was added
+They are player number 2
+Veronique was added
+They are player number 3
+------ round 1 -----
+Jessica is the current player
+They have rolled a 1
+Jessica's new location is 1
+The category is Science
+Science Question 0
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 2 -----
+Kelly is the current player
+They have rolled a 6
+Kelly's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Kelly now has 1 Gold Coins.
+------ round 3 -----
+Veronique is the current player
+They have rolled a 4
+Veronique's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 4 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 6
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Jessica now has 1 Gold Coins.
+------ round 5 -----
+Kelly is the current player
+They have rolled a 5
+Kelly's new location is 11
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Kelly now has 2 Gold Coins.
+------ round 6 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 9
+The category is Science
+Science Question 1
+Answer was correct!!!!
+Veronique now has 1 Gold Coins.
+------ round 7 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 9
+The category is Science
+Science Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 8 -----
+Kelly is the current player
+They have rolled a 5
+Kelly's new location is 4
+The category is Pop
+Pop Question 1
+Answer was corrent!!!!
+Kelly now has 3 Gold Coins.
+------ round 9 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 10 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 0
+The category is Pop
+Pop Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 11 -----
+Kelly is the current player
+They have rolled a 4
+Kelly's new location is 8
+The category is Pop
+Pop Question 3
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 12 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 13 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 5
+The category is Science
+Science Question 3
+Answer was correct!!!!
+Jessica now has 2 Gold Coins.
+------ round 14 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 15 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 16 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 10
+The category is Sports
+Sports Question 2
+Answer was correct!!!!
+Jessica now has 3 Gold Coins.
+------ round 17 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 18 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 2
+The category is Sports
+Sports Question 3
+Answer was correct!!!!
+Veronique now has 2 Gold Coins.
+------ round 19 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 20 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 11
+The category is Rock
+Rock Question 2
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 21 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 22 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 23 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 4
+The category is Pop
+Pop Question 4
+Answer was correct!!!!
+Kelly now has 4 Gold Coins.
+------ round 24 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 3
+The category is Rock
+Rock Question 3
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 25 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 26 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 5
+The category is Science
+Science Question 4
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 27 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 28 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 0
+The category is Pop
+Pop Question 5
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 29 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 6
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 30 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 31 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 3
+The category is Rock
+Rock Question 4
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 32 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 5
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 33 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 4
+The category is Pop
+Pop Question 7
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 34 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 8
+The category is Pop
+Pop Question 8
+Answer was correct!!!!
+Jessica now has 4 Gold Coins.
+------ round 35 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 36 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 37 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 38 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 39 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 9
+The category is Science
+Science Question 6
+Answer was correct!!!!
+Veronique now has 3 Gold Coins.
+------ round 40 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 5
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 41 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 2
+The category is Sports
+Sports Question 4
+Answer was correct!!!!
+Kelly now has 5 Gold Coins.
+------ round 42 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 43 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 44 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 7
+The category is Rock
+Rock Question 6
+Answer was correct!!!!
+Kelly now has 6 Gold Coins.
+===== iteration 1 end =====
+
+===== iteration 2 started =====
+Jessica was added
+They are player number 1
+Kelly was added
+They are player number 2
+Veronique was added
+They are player number 3
+------ round 1 -----
+Jessica is the current player
+They have rolled a 1
+Jessica's new location is 1
+The category is Science
+Science Question 0
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 2 -----
+Kelly is the current player
+They have rolled a 5
+Kelly's new location is 5
+The category is Science
+Science Question 1
+Answer was corrent!!!!
+Kelly now has 1 Gold Coins.
+------ round 3 -----
+Veronique is the current player
+They have rolled a 1
+Veronique's new location is 1
+The category is Science
+Science Question 2
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 4 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 5 -----
+Kelly is the current player
+They have rolled a 6
+Kelly's new location is 11
+The category is Rock
+Rock Question 0
+Answer was corrent!!!!
+Kelly now has 2 Gold Coins.
+------ round 6 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 7 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 8 -----
+Kelly is the current player
+They have rolled a 1
+Kelly's new location is 0
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 9 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 5
+The category is Science
+Science Question 3
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 10 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 9
+The category is Science
+Science Question 4
+Answer was correct!!!!
+Jessica now has 1 Gold Coins.
+------ round 11 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 12 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 10
+The category is Sports
+Sports Question 1
+Answer was correct!!!!
+Veronique now has 1 Gold Coins.
+------ round 13 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 2
+Answer was correct!!!!
+Jessica now has 2 Gold Coins.
+------ round 14 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 3
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 15 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 16 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 7
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+Jessica now has 3 Gold Coins.
+------ round 17 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 18 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 1
+The category is Science
+Science Question 5
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 19 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 8
+The category is Pop
+Pop Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 20 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 21 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 22 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 23 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 24 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 25 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 9
+The category is Science
+Science Question 6
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 26 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 27 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 4
+The category is Pop
+Pop Question 3
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 28 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 29 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 4
+The category is Pop
+Pop Question 4
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 30 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 31 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 10
+The category is Sports
+Sports Question 3
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 32 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 33 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 34 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 3
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 35 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 36 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 37 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 4
+The category is Pop
+Pop Question 5
+Answer was correct!!!!
+Jessica now has 4 Gold Coins.
+------ round 38 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 7
+The category is Rock
+Rock Question 4
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 39 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 40 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 41 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 0
+The category is Pop
+Pop Question 6
+Answer was correct!!!!
+Kelly now has 3 Gold Coins.
+------ round 42 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 5
+The category is Science
+Science Question 7
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 43 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 44 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 45 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 46 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 47 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 1
+The category is Science
+Science Question 8
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 48 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 49 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 50 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 51 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 52 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 53 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 4
+The category is Pop
+Pop Question 7
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 54 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 55 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 5
+The category is Science
+Science Question 9
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 56 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 10
+Answer was correct!!!!
+Kelly now has 4 Gold Coins.
+------ round 57 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 8
+The category is Pop
+Pop Question 8
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 58 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 59 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 10
+The category is Sports
+Sports Question 4
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 60 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 61 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 10
+The category is Sports
+Sports Question 5
+Answer was correct!!!!
+Jessica now has 5 Gold Coins.
+------ round 62 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 63 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 1
+The category is Science
+Science Question 11
+Answer was correct!!!!
+Veronique now has 2 Gold Coins.
+------ round 64 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 1
+The category is Science
+Science Question 12
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 65 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 11
+The category is Rock
+Rock Question 5
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 66 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 67 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 6
+The category is Sports
+Sports Question 6
+Answer was correct!!!!
+Jessica now has 6 Gold Coins.
+===== iteration 2 end =====
+
+===== iteration 3 started =====
+Jessica was added
+They are player number 1
+Kelly was added
+They are player number 2
+Veronique was added
+They are player number 3
+------ round 1 -----
+Jessica is the current player
+They have rolled a 2
+Jessica's new location is 2
+The category is Sports
+Sports Question 0
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 2 -----
+Kelly is the current player
+They have rolled a 3
+Kelly's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 3 -----
+Veronique is the current player
+They have rolled a 1
+Veronique's new location is 1
+The category is Science
+Science Question 0
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 4 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 5 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 0
+Answer was correct!!!!
+Kelly now has 1 Gold Coins.
+------ round 6 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 2
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 7 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 8 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 1
+The category is Science
+Science Question 1
+Answer was correct!!!!
+Kelly now has 2 Gold Coins.
+------ round 9 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 10 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 11 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 12 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 13 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 14 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 6
+The category is Sports
+Sports Question 2
+Answer was correct!!!!
+Kelly now has 3 Gold Coins.
+------ round 15 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 16 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 5
+The category is Science
+Science Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 17 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 18 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 3
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 19 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 20 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 21 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 22 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 6
+The category is Sports
+Sports Question 3
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 23 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 24 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 25 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 7
+The category is Rock
+Rock Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 26 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 27 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 6
+The category is Sports
+Sports Question 4
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 28 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 8
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 29 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 3
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 30 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 7
+The category is Rock
+Rock Question 3
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 31 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 9
+The category is Science
+Science Question 4
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 32 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 33 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 10
+The category is Sports
+Sports Question 5
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 34 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 35 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 36 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 1
+The category is Science
+Science Question 5
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 37 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 0
+The category is Pop
+Pop Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 38 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 39 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 40 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 41 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 42 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 43 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 1
+The category is Science
+Science Question 6
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 44 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 2
+The category is Sports
+Sports Question 6
+Answer was correct!!!!
+Kelly now has 4 Gold Coins.
+------ round 45 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 2
+The category is Sports
+Sports Question 7
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 46 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 47 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 48 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 5
+The category is Science
+Science Question 7
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 49 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 50 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 51 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 52 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 8
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 53 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 54 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 10
+The category is Sports
+Sports Question 9
+Answer was correct!!!!
+Veronique now has 1 Gold Coins.
+------ round 55 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 7
+The category is Rock
+Rock Question 4
+Answer was correct!!!!
+Jessica now has 1 Gold Coins.
+------ round 56 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 7
+The category is Rock
+Rock Question 5
+Answer was correct!!!!
+Kelly now has 5 Gold Coins.
+------ round 57 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 58 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 8
+The category is Pop
+Pop Question 3
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 59 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 10
+The category is Sports
+Sports Question 10
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 60 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 61 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 62 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 63 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 64 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 6
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 65 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 3
+The category is Rock
+Rock Question 7
+Answer was correct!!!!
+Kelly now has 6 Gold Coins.
+===== iteration 3 end =====
+
+===== iteration 4 started =====
+Jessica was added
+They are player number 1
+Kelly was added
+They are player number 2
+Veronique was added
+They are player number 3
+------ round 1 -----
+Jessica is the current player
+They have rolled a 1
+Jessica's new location is 1
+The category is Science
+Science Question 0
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 2 -----
+Kelly is the current player
+They have rolled a 3
+Kelly's new location is 3
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 3 -----
+Veronique is the current player
+They have rolled a 1
+Veronique's new location is 1
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 4 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 5 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 6 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 6
+The category is Sports
+Sports Question 0
+Answer was correct!!!!
+Veronique now has 1 Gold Coins.
+------ round 7 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 8 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 1
+Answer was correct!!!!
+Kelly now has 1 Gold Coins.
+------ round 9 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 10 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 9
+The category is Science
+Science Question 2
+Answer was correct!!!!
+Jessica now has 1 Gold Coins.
+------ round 11 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 12 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 13 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 14 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 15 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 16 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 10
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 17 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 18 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 19 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 20 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 21 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 22 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 1
+The category is Science
+Science Question 3
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 23 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 24 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 9
+The category is Science
+Science Question 4
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 25 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 26 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 27 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 10
+The category is Sports
+Sports Question 3
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 28 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 29 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 5
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 30 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 31 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 5
+The category is Science
+Science Question 6
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 32 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 33 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 34 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 10
+The category is Sports
+Sports Question 4
+Answer was correct!!!!
+Jessica now has 2 Gold Coins.
+------ round 35 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 36 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 37 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 38 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 39 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 11
+The category is Rock
+Rock Question 2
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 40 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 41 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 10
+The category is Sports
+Sports Question 5
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 42 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 43 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 0
+The category is Pop
+Pop Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 44 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 11
+The category is Rock
+Rock Question 3
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 45 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 0
+The category is Pop
+Pop Question 3
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 46 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 47 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 0
+The category is Pop
+Pop Question 4
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 48 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 49 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 50 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 51 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 5
+The category is Science
+Science Question 7
+Answer was correct!!!!
+Veronique now has 2 Gold Coins.
+------ round 52 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 53 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 3
+The category is Rock
+Rock Question 4
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 54 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 55 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 56 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 5
+Answer was correct!!!!
+Kelly now has 2 Gold Coins.
+------ round 57 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 58 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 1
+The category is Science
+Science Question 8
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 59 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 1
+The category is Science
+Science Question 9
+Answer was correct!!!!
+Kelly now has 3 Gold Coins.
+------ round 60 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 61 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 62 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 2
+The category is Sports
+Sports Question 6
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 63 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 64 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 7
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 65 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 66 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 8
+The category is Pop
+Pop Question 6
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 67 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 5
+The category is Science
+Science Question 10
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 68 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 5
+The category is Science
+Science Question 11
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 69 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 70 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 6
+The category is Sports
+Sports Question 8
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 71 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 7
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 72 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 73 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 9
+The category is Science
+Science Question 12
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 74 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 13
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 75 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 76 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 77 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 0
+The category is Pop
+Pop Question 8
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 78 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 79 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 10
+The category is Sports
+Sports Question 9
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 80 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 5
+The category is Science
+Science Question 14
+Answer was correct!!!!
+Kelly now has 4 Gold Coins.
+------ round 81 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 1
+The category is Science
+Science Question 15
+Answer was correct!!!!
+Veronique now has 3 Gold Coins.
+------ round 82 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 83 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 9
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 84 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 85 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 5
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 86 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 11
+The category is Rock
+Rock Question 6
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 87 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 88 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 89 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 0
+The category is Pop
+Pop Question 10
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 90 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 4
+The category is Pop
+Pop Question 11
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 91 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 10
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 92 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 1
+The category is Science
+Science Question 16
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 93 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 7
+The category is Rock
+Rock Question 7
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 94 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 95 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 4
+The category is Pop
+Pop Question 12
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 96 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 8
+The category is Pop
+Pop Question 13
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 97 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 98 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 7
+The category is Rock
+Rock Question 8
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 99 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 100 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 3
+The category is Rock
+Rock Question 9
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 101 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 102 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 11
+The category is Rock
+Rock Question 10
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 103 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 4
+The category is Pop
+Pop Question 14
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 104 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 15
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 105 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 106 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 107 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 108 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 4
+The category is Pop
+Pop Question 16
+Answer was correct!!!!
+Veronique now has 4 Gold Coins.
+------ round 109 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 110 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 111 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 112 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 113 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 114 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 115 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 9
+The category is Science
+Science Question 17
+Answer was correct!!!!
+Jessica now has 3 Gold Coins.
+------ round 116 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 1
+The category is Science
+Science Question 18
+Answer was correct!!!!
+Kelly now has 5 Gold Coins.
+------ round 117 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 7
+The category is Rock
+Rock Question 11
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 118 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 119 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 120 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 121 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 122 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 123 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 0
+The category is Pop
+Pop Question 17
+Answer was correct!!!!
+Veronique now has 5 Gold Coins.
+------ round 124 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 125 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 4
+The category is Pop
+Pop Question 18
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 126 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 3
+The category is Rock
+Rock Question 12
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 127 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 128 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 19
+Answer was correct!!!!
+Kelly now has 6 Gold Coins.
+===== iteration 4 end =====
+
+===== iteration 5 started =====
+Jessica was added
+They are player number 1
+Kelly was added
+They are player number 2
+Veronique was added
+They are player number 3
+------ round 1 -----
+Jessica is the current player
+They have rolled a 6
+Jessica's new location is 6
+The category is Sports
+Sports Question 0
+Answer was corrent!!!!
+Jessica now has 1 Gold Coins.
+------ round 2 -----
+Kelly is the current player
+They have rolled a 2
+Kelly's new location is 2
+The category is Sports
+Sports Question 1
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 3 -----
+Veronique is the current player
+They have rolled a 4
+Veronique's new location is 4
+The category is Pop
+Pop Question 0
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 4 -----
+Jessica is the current player
+They have rolled a 3
+Jessica's new location is 9
+The category is Science
+Science Question 0
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 5 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 5
+The category is Science
+Science Question 1
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 6 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 7
+The category is Rock
+Rock Question 0
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 7 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 0
+The category is Pop
+Pop Question 1
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 8 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 10
+The category is Sports
+Sports Question 2
+Answer was correct!!!!
+Kelly now has 1 Gold Coins.
+------ round 9 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 10
+The category is Sports
+Sports Question 3
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 10 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 11 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 1
+The category is Science
+Science Question 2
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 12 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 13 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 3
+The category is Rock
+Rock Question 1
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 14 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 15 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 3
+The category is Rock
+Rock Question 2
+Answer was correct!!!!
+Veronique now has 1 Gold Coins.
+------ round 16 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 6
+The category is Sports
+Sports Question 4
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 17 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 18 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 19 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 3
+Answer was correct!!!!
+Jessica now has 2 Gold Coins.
+------ round 20 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 21 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 22 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 0
+The category is Pop
+Pop Question 2
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 23 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 24 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 6
+The category is Sports
+Sports Question 5
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 25 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 1
+The category is Science
+Science Question 3
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 26 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 27 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 7
+The category is Rock
+Rock Question 4
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 28 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 6
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 29 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 2
+The category is Sports
+Sports Question 7
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 30 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 8
+The category is Pop
+Pop Question 3
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 31 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 7
+The category is Rock
+Rock Question 5
+Answer was correct!!!!
+Jessica now has 3 Gold Coins.
+------ round 32 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 7
+The category is Rock
+Rock Question 6
+Answer was correct!!!!
+Kelly now has 2 Gold Coins.
+------ round 33 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 9
+The category is Science
+Science Question 4
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 34 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 10
+The category is Sports
+Sports Question 8
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 35 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 36 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 37 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 38 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 4
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 39 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 40 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 41 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 5
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 42 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 10
+The category is Sports
+Sports Question 9
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 43 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 7
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 44 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 45 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 46 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 47 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 48 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 3
+The category is Rock
+Rock Question 8
+Answer was correct!!!!
+Veronique now has 2 Gold Coins.
+------ round 49 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 4
+The category is Pop
+Pop Question 5
+Answer was correct!!!!
+Jessica now has 4 Gold Coins.
+------ round 50 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 0
+The category is Pop
+Pop Question 6
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 51 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 52 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 7
+The category is Rock
+Rock Question 9
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 53 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 54 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 6
+The category is Sports
+Sports Question 10
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 55 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 10
+The category is Sports
+Sports Question 11
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 56 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 3
+The category is Rock
+Rock Question 10
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 57 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 58 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 59 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 60 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 9
+The category is Science
+Science Question 6
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 61 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 11
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 62 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 63 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 2
+The category is Sports
+Sports Question 12
+Answer was correct!!!!
+Veronique now has 3 Gold Coins.
+------ round 64 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 65 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 66 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 5
+The category is Science
+Science Question 7
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 67 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 68 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 4
+The category is Pop
+Pop Question 7
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 69 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 70 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 13
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 71 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 8
+Answer was correct!!!!
+Kelly now has 3 Gold Coins.
+------ round 72 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 73 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 5
+The category is Science
+Science Question 9
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 74 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 75 -----
+Veronique is the current player
+They have rolled a 2
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 76 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 77 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 78 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 10
+The category is Sports
+Sports Question 14
+Answer was correct!!!!
+Veronique now has 4 Gold Coins.
+------ round 79 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 80 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 81 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 82 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 6
+The category is Sports
+Sports Question 15
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 83 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 2
+The category is Sports
+Sports Question 16
+Answer was correct!!!!
+Kelly now has 4 Gold Coins.
+------ round 84 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 1
+The category is Science
+Science Question 10
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 85 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 86 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 3
+The category is Rock
+Rock Question 12
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 87 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 2
+The category is Sports
+Sports Question 17
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 88 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 11
+The category is Rock
+Rock Question 13
+Answer was correct!!!!
+Jessica now has 5 Gold Coins.
+------ round 89 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 90 -----
+Veronique is the current player
+They have rolled a 5
+Veronique is getting out of the penalty box
+Veronique's new location is 7
+The category is Rock
+Rock Question 14
+Answer was correct!!!!
+Veronique now has 5 Gold Coins.
+------ round 91 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 18
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 92 -----
+Kelly is the current player
+They have rolled a 5
+Kelly is getting out of the penalty box
+Kelly's new location is 8
+The category is Pop
+Pop Question 8
+Answer was correct!!!!
+Kelly now has 5 Gold Coins.
+------ round 93 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 8
+The category is Pop
+Pop Question 9
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 94 -----
+Jessica is the current player
+They have rolled a 2
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 95 -----
+Kelly is the current player
+They have rolled a 2
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 96 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 97 -----
+Jessica is the current player
+They have rolled a 4
+Jessica is not getting out of the penalty box
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 98 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 99 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 100 -----
+Jessica is the current player
+They have rolled a 1
+Jessica is getting out of the penalty box
+Jessica's new location is 3
+The category is Rock
+Rock Question 15
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 101 -----
+Kelly is the current player
+They have rolled a 1
+Kelly is getting out of the penalty box
+Kelly's new location is 9
+The category is Science
+Science Question 11
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 102 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 103 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 6
+The category is Sports
+Sports Question 19
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 104 -----
+Kelly is the current player
+They have rolled a 3
+Kelly is getting out of the penalty box
+Kelly's new location is 0
+The category is Pop
+Pop Question 10
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 105 -----
+Veronique is the current player
+They have rolled a 3
+Veronique is getting out of the penalty box
+Veronique's new location is 11
+The category is Rock
+Rock Question 16
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 106 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 107 -----
+Kelly is the current player
+They have rolled a 4
+Kelly is not getting out of the penalty box
+Question was incorrectly answered
+Kelly was sent to the penalty box
+------ round 108 -----
+Veronique is the current player
+They have rolled a 6
+Veronique is not getting out of the penalty box
+------ round 109 -----
+Jessica is the current player
+They have rolled a 6
+Jessica is not getting out of the penalty box
+------ round 110 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 111 -----
+Veronique is the current player
+They have rolled a 1
+Veronique is getting out of the penalty box
+Veronique's new location is 0
+The category is Pop
+Pop Question 11
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 112 -----
+Jessica is the current player
+They have rolled a 3
+Jessica is getting out of the penalty box
+Jessica's new location is 9
+The category is Science
+Science Question 12
+Question was incorrectly answered
+Jessica was sent to the penalty box
+------ round 113 -----
+Kelly is the current player
+They have rolled a 6
+Kelly is not getting out of the penalty box
+------ round 114 -----
+Veronique is the current player
+They have rolled a 4
+Veronique is not getting out of the penalty box
+Question was incorrectly answered
+Veronique was sent to the penalty box
+------ round 115 -----
+Jessica is the current player
+They have rolled a 5
+Jessica is getting out of the penalty box
+Jessica's new location is 2
+The category is Sports
+Sports Question 20
+Answer was correct!!!!
+Jessica now has 6 Gold Coins.
+===== iteration 5 end =====
+
